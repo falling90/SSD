@@ -30,4 +30,15 @@
 
 >**Loss 계산**
 
+<img src="https://github.com/falling90/SSD/blob/main/Reference/Image/5.PNG" width="1000px" height="500px"></img><br/>  
+
     -. 
+
+
+>**NMS**
+
+<img src="https://github.com/falling90/SSD/blob/main/Reference/Image/6.PNG" width="1000px" height="500px"></img><br/>  
+
+    -. NMS : Not Maximum Suppression
+    -. 일정 Threshold 기준으로 중요하지 않은 Data 제거 및 Data 처리
+    -. 잔여 Bounding Box 끼리의 IOU 계산 후 특정 기준 넘으면 제거 (동일 Object 로 인식)

@@ -5,6 +5,7 @@
     -. 분류와 조정을 같이 실행하는 단일 신경망 모델
    
 >**등장 배경**
+
 <img src="https://github.com/falling90/SSD/blob/main/Reference/Image/1.PNG" width="600px" height="300px"></img><br/>  
 
     -. Object Detection 은 최근 자율주행 등에 활용되면서 정확도 뿐만 아니라 신속성도 중요해짐
@@ -13,9 +14,11 @@
 
 ## SSD 구조 및 절차
 >**Model**
+
 <img src="https://github.com/falling90/SSD/blob/main/Reference/Image/2.PNG" width="1000px" height="300px"></img><br/>  
 
 >**특징**
+
 <img src="https://github.com/falling90/SSD/blob/main/Reference/Image/3.PNG" width="1000px" height="300px"></img><br/>  
 
     1. 이미지 개념적 축소 & Bounding Box 설정

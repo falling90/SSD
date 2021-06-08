@@ -37,7 +37,7 @@
 
 >**NMS**
 
-<img src="https://github.com/falling90/SSD/blob/main/Reference/Image/6.PNG" width="1000px" height="500px"></img><br/>  
+<img src="https://github.com/falling90/SSD/blob/main/Reference/Image/6.PNG" width="1000px" height="300px"></img><br/>  
 
     -. NMS : Not Maximum Suppression
     -. 일정 Threshold 기준으로 중요하지 않은 Data 제거 및 Data 처리
